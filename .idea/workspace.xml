@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8d1286e-2a73-4271-8c0e-f2ff5c7fd409" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoTrabalho.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoKenPo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pedra_papel_tesoura_lagarto_Spock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajuste_salarial.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algarismos_romanos.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anagramas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/area_circunferencia.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conversao_em_dolar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conversao_em_real.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eleicao_sindical.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fatorial.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letras_repetidas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media_aluno.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordenando_inteiros.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pangrama.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quadrado_da_soma.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quebra_de_linha.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salario_professor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrabble_score.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soma_dos_pares.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soma_dos_quadrados.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soma_pares.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/somando_naturais.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sudoku.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/troca.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/troco.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_fer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/velocidade_do_projetil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volume_caixa.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.20.5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8d1286e-2a73-4271-8c0e-f2ff5c7fd409" name="Changes" comment="" />
+      <created>1686750036264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686750036264</updated>
+      <workItem from="1686750036279" duration="5358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
